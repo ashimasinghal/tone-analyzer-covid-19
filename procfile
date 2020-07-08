@@ -1,1 +1,1 @@
-web: gunicorn app:server
+web: gunicorn tone_anayzer_app:server
